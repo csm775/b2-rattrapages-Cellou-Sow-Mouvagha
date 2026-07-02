@@ -12,6 +12,8 @@ de customiser et acheter des chaussons d'escalade en souvenir des Jeux Olympique
 - Plugin(s) de paiement : [à compléter]
 
 ## Cahier des charges
+- [x] Configuration attributs WooCommerce (marque, taille, rigidité)
+- [x] Produit variable "Chausson d'escalade JO Paris 2024" créé avec variations
 - [ ] Site responsive avec UI soignée
 - [ ] Page d'accueil (landing page) avec logo ESM Escalade, mise en avant des JO et des
       champions Zélia et Sam Avezou
