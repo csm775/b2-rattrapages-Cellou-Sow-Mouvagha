@@ -19,6 +19,9 @@ de customiser et acheter des chaussons d'escalade en souvenir des Jeux Olympique
 - [x] Page Shop (résultats de recherche) créée par WooCommerce
 - [x] Page Cart (panier) créée par WooCommerce
 - [x] Page Checkout (paiement sécurisé) créée par WooCommerce
+- [x] Page accueil complète avec heroes, champions, collection JO
+- [x] 3 produits créés avec variations marque/taille/rigidité
+- [x] Footer avec logo et copyright
 - [ ] Site responsive avec UI soignée
 - [ ] Page d'accueil (landing page) avec logo ESM Escalade, mise en avant des JO et des
       champions Zélia et Sam Avezou
