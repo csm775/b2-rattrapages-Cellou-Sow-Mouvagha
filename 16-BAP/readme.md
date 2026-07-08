@@ -22,23 +22,34 @@ de customiser et acheter des chaussons d'escalade en souvenir des Jeux Olympique
 - [x] Page accueil complète avec heroes, champions, collection JO
 - [x] 3 produits créés avec variations marque/taille/rigidité
 - [x] Footer avec logo et copyright
-- [ ] Site responsive avec UI soignée
-- [ ] Page d'accueil (landing page) avec logo ESM Escalade, mise en avant des JO et des
+- [x] Site responsive avec UI soignée
+- [x] Page d'accueil (landing page) avec logo ESM Escalade, mise en avant des JO et des
       champions Zélia et Sam Avezou
-- [ ] Page de résultats de recherche
-- [ ] Page produits avec customisation (visuels JO Paris) + attributs marque/taille/rigidité
-- [ ] Page de paiement sécurisée
+- [x] Page de résultats de recherche
+- [x] Page produits avec customisation (visuels JO Paris) + attributs marque/taille/rigidité
+- [x] Page de paiement sécurisée
+
 
 ## Setup / Installation
-[À compléter : comment lancer le site en local avec Local (LocalWP), ou instructions
-si export WordPress fourni]
+1. Installer Local (LocalWP) sur votre machine
+2. Créer un nouveau site nommé "esm-escalade"
+3. Installer WordPress 7.0
+4. Installer le plugin WooCommerce
+5. Installer le thème Astra
+6. Importer la base de données (à fournir) ou reconfigurer manuellement
 
 ## Recherches effectuées
-[Lister ici toute recherche internet faite pendant l'exercice, même non concluante,
-avec les liens]
+- Installation WooCommerce : https://woocommerce.com/documentation/
+- Thème Astra : https://wpastra.com/
+- Images chaussons : Unsplash.com (libre de droits)
+- Logo Paris 2024 : Google Images
+- Photos Zélia et Sam Avezou : Google Images
+- Attributs WooCommerce produits variables : https://woocommerce.com/document/variable-product/
+- Couleurs Jeux Olympiques : #0057A8 (bleu) #E8B84B (or)
+- Header Builder Astra : documentation officielle Astra
 
 ## Vidéo explicative
-Lien : [à compléter - Loom ou YouTube non répertorié]
+Lien : https://youtu.be/3sOPuwfTyO8
 
 La vidéo présente :
 - Démonstration du site
